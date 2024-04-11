@@ -8,3 +8,46 @@ body,
 html {
   height: 100%;
 }
+
+.info {
+  padding: 10px;
+  background: white;
+}
+
+/* Style for the legend title */
+.legend h2 {
+  margin: 0 0 5px;
+  font-size: 16px;
+}
+
+/* Style for legend color blocks */
+.legend i {
+  width: 10px;
+  height: 10px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.8;
+}
+
+.legend .red {
+  background-color: #FF0000;
+}
+
+.legend .orangered {
+  background-color: #FF4500;
+}
+
+.legend .orange {
+  background-color: #FFA500;
+}
+
+.legend .yellow {
+  background-color: #FFFF00;
+}
+
+.legend .greenyellow {
+  background-color: #ADFF2F;
+}
+
+.legend .limegreen {
+  background-color: #00FF00;
